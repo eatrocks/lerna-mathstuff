@@ -1,5 +1,5 @@
 {
-  "name": "multiply",
+  "name": "@demo/multiply",
   "version": "1.0.0",
   "description": "Get the product of two numbers.",
   "main": "index.js",

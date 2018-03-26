@@ -1,5 +1,5 @@
-import multiply from "../multiply";
-import divide from "../divide";
+import multiply from "@demo/multiply";
+import divide from "@demo/divide";
 
 // Find a^power
 const exponentiate = (a, power) => {

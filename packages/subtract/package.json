@@ -1,5 +1,5 @@
 {
-  "name": "substract",
+  "name": "@demo/substract",
   "version": "1.0.0",
   "description": "Get the difference of two numbers.",
   "main": "index.js",
@@ -7,5 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "ICS Stack Team",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@demo/add": "^1.0.0"
+  }
 }

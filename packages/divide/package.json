@@ -1,5 +1,5 @@
 {
-  "name": "divide",
+  "name": "@demo/divide",
   "version": "1.0.0",
   "description": "Get the quotient of two numbers.",
   "main": "index.js",

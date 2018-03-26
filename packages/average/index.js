@@ -1,5 +1,5 @@
-import add from "../add";
-import divide from "../divide";
+import add from "@demo/add";
+import divide from "@demo/divide";
 
 // Find the average of an array of numbers;
 const average = arr => {

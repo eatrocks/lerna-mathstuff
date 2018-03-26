@@ -1,5 +1,5 @@
 {
-  "name": "exponentiate",
+  "name": "@demo/exponentiate",
   "version": "1.0.0",
   "description": "Get the exponentiation of two numbers.",
   "main": "index.js",
@@ -7,5 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "ICS Stack Team",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@demo/multiply": "^1.0.0",
+    "@demo/divide": "^1.0.0"
+	}
 }
