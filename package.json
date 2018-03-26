@@ -1,6 +1,9 @@
 {
 	"name": "mathstuff",
 	"version": "1.0.0",
+	"description": "A project to demonstrate a monorepo with Lerna",
+	"author": "ICS Stack Team",
+  "license": "MIT",
 	"devDependencies": {
 		"lerna": "^2.9.0"
 	}
