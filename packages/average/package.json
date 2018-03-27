@@ -10,6 +10,6 @@
   "license": "MIT",
   "dependencies": {
     "@demo/add": "^1.0.0",
-    "@demo/multiply": "^1.0.0"
+    "@demo/divide": "^1.0.0"
 	}
 }
