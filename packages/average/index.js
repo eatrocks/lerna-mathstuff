@@ -7,4 +7,4 @@ const average = arr => {
   return divide(arrSum, arr.length);
 };
 
-export default average;
+module.exports =  average;

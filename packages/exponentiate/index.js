@@ -19,4 +19,4 @@ const exponentiate = (a, power) => {
   return result;
 };
 
-export default exponentiate;
+module.exports = exponentiate;
